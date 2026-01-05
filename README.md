@@ -1,5 +1,5 @@
-# Mern-E-commerce
-# 🛒 MERN Stack E-Commerce Website
+
+My first MERN e-commerce project
 
 A full-stack **E-Commerce Web Application** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
 This project provides a real-world online shopping experience with modern UI, secure backend, and scalable architecture.
